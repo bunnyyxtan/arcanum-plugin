@@ -1,0 +1,11 @@
+{
+  "tool": "arcanum_create_wallet",
+  "arguments": {
+    "chain": "arc",
+    "owner": "0x836BEEa5C4382196393C5DF8bA345E09F7b20Bd4",
+    "label": "paybox-agent",
+    "per_payment_usdc": "5",
+    "daily_usdc": "20",
+    "escalate_above_usdc": "3"
+  }
+}
