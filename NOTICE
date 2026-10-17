@@ -1,0 +1,8 @@
+ARCANUM PayBox plugin
+Copyright 2026 Bunnyy
+
+This product includes the PayBox plugin starter (release 1.0.2) from MoonPay's PayBox
+developer portal: scripts/*.mjs, src/paybox.ts, pnpm-workspace.yaml and starter-version.json.
+
+The ARCANUM smart contracts deployed by src/deploy-base.ts are from
+https://github.com/bunnyyxtan/ARCANUM (packages/contracts, Apache-2.0).
