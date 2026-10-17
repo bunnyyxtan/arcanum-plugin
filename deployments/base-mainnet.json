@@ -1,0 +1,30 @@
+{
+  "network": "base-mainnet",
+  "chainId": 8453,
+  "usdc": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+  "protocolAdmin": "0xf14521e8eFF08b5A2ee324e515EBc42e336DAe06",
+  "oracleSigner": "0xf14521e8eFF08b5A2ee324e515EBc42e336DAe06",
+  "create2Deployer": "0x4e59b44847b379578588920cA78FbF26c0B4956C",
+  "create2Salt": "0x7795b0833f346907fccc4175d9f68895af3c35ac4e6d0c26e9972340184afa68",
+  "deployedVia": "PayBox arcanum_deploy, signed by the PayBox wallet, no deployer key",
+  "deployedAt": "2026-10-17",
+  "policyEngine": "0x437C281670111378F2da34246Fc587D5866ebc63",
+  "escalationManager": "0x3C51f973a0eCb2Ac3fd70e4862E7Cd88313a1D06",
+  "anomalyOracle": "0xF98A554613188351F28A84824C0Eafc3c0744809",
+  "vendorRegistry": "0x0ea9f1B6cD5c5D8437cC96569730FB70d38F2fD6",
+  "walletFactory": "0x3649bDD7A6095601b5D66bCe9FF7115e0Ffe5002",
+  "codeHashes": {
+    "anomalyOracle": "0xc865eaee1a2a98c7ed7570aa7369a1a42acc65237d4bbb883d87c9cb41d851f0",
+    "escalationManager": "0x98da9088604470ea69376393455d4a162710b3b5df5b89ae32f596804965765f",
+    "policyEngine": "0x38fe29e4a8c388faca2b21ad9dfc33790711baf6966518f617aa86da6e0f21f0",
+    "vendorRegistry": "0x140f2bc854cbffce5fe1d067b1dde55d02f717656bea952a64e3578813842ae5",
+    "walletFactory": "0xcee9f263b898935d42cdaa92b852a3a762b14c8d6a6f42c2208c3213164a6a89"
+  },
+  "txHashes": {
+    "policyEngine": "0x0f07b12b76b91d91d495cef3bae1e8f702270277b678dc9f345b55d28a8dc757",
+    "escalationManager": "0x23001d589be195c69c04bde4aa08ef57a9baf118a6aa1c8a679999ba3aea9922",
+    "anomalyOracle": "0x154f5a97bc2d0a7588f263223c13e08b3d22b5a0db9c82c3d8c4e98e11aa50eb",
+    "vendorRegistry": "0x80b3bc21a8f4ba526997cef060eba74a606a14573e2f40d9abe758c58325d16e",
+    "walletFactory": "0xf5b07030f9daf543304270a0e56a51e0e1f23712e4b2de51f9e925639e4a2924"
+  }
+}
